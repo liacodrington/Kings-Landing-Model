@@ -5,3 +5,4 @@ scipy
 voila
 ixmp
 message_ix
+pyam
