@@ -4,3 +4,4 @@ ipyvolume
 scipy
 voila
 ixmp
+message_ix
